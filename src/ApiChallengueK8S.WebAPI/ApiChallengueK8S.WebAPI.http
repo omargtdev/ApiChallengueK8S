@@ -1,0 +1,6 @@
+@ApiChallengueK8S.WebAPI_HostAddress = http://localhost:5162
+
+GET {{ApiChallengueK8S.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
